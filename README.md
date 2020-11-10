@@ -1,7 +1,7 @@
 # sprint-boot-state-machine
 Sample spring boot application with spring statemachine
 
-How to Run
+How to Run the project. Go to checkout folder and run below command.
 
 gradle bootRun
 
